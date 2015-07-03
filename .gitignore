@@ -1,0 +1,11 @@
+# PHPStorm/IDE
+.idea/
+
+# Composer
+/vendor/
+
+# Buildable Data
+/build/logs/
+/build/coverage/
+/build/pdepend/
+/build/phpdox/

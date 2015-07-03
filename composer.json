@@ -1,0 +1,24 @@
+{
+  "name": "codejet/entitytrait",
+  "type": "library",
+  "description": "A simple trait useful to all entity object.",
+  "keywords": ["entitytrait", "trait"],
+  "homepage": "http://www.codejet.net",
+  "license": "Copyright",
+  "authors": [
+    {
+      "name": "Josh Houghtelin",
+      "email": "josh@findsomehelp.com"
+    },
+    {
+      "name": "Zech Walden",
+      "email": "zech@zewadesign.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {"CodeJet\\": "src/"}
+  }
+}
